@@ -54,7 +54,7 @@
 <br/>
 <li><img align="left" width ="40 px" src = "https://media.giphy.com/media/3oKIPqM8BJ0ofNQOzK/giphy.gif"> I have Passion in<b> Computer programming</b> ,<b> Embedded Systems</b>,<b> Internet of Things</b>, and <b>Computer Vision</b></li>
 <br/>
-<li><img src="https://www.cielhr.com/wp-content/uploads/2019/10/PerformancewSpace-1080x675.png" width="40 px" draggable="false"> I'm currently focused on improving my ability to reliable embedded projects in AVR and Arm and Firmware to a lot of components </li>
+<li><img src="https://media.giphy.com/media/H7qzvnwBRMqDAZLmyc/giphy.gif" width="40 px" draggable="false"> I'm currently focused on improving my ability to reliable embedded projects in AVR and Arm and Firmware to a lot of components </li>
 <br/>
 <li><img src="https://media.giphy.com/media/xUPGcIUJFECMDXIvFC/giphy.gif" width="40 px"" draggable="false"> Ask me about anything, I will be happy to help </li>
 </div>
