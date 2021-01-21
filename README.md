@@ -1,10 +1,12 @@
-<p allign= "center">
+<p align="center">
 
-
-  <img src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" >
-</p>
+  <img src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" alt="Coder GIF" width="400" >
   
-
+</p>
+<p >
+  <b align="center">“An algorithm must be seen to be believed.”</b> <br>
+    -- Donald Knuth
+  </p>
 
 ### Hi there 👋
 - 🔭 I’m currently working on ...
