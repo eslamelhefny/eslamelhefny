@@ -7,7 +7,7 @@
  **“An algorithm must be seen to be believed.” -- Donald Knuth**
  <br/>
 
-<h1><img align ="left" width ="40px" src ="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" draggable ="" Hi, I am <a src ="https://github.com/eslamelhefny">Eslam El Hefny</h1>
+<h1><img align ="left" width ="60px" src ="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" draggable ="false"> Hi, I am <a src ="https://github.com/eslamelhefny">Eslam El Hefny</a></h1>
 <br/>
 <div align="center">
 
@@ -46,7 +46,7 @@
 <br/>
 <br/>
 <div align="left">
- <img align="left"  src="https://media.giphy.com/media/3oEjHBO7mXcPBDQV8Y/giphy.gif" width="50" draggable="false" > <h1>About me</h1>
+ <img align="left"  src="https://media.giphy.com/media/3oEjHBO7mXcPBDQV8Y/giphy.gif" width="100" draggable="false" > <h1>About me</h1>
  <ul>
 <li><img align ="left" src="https://www.flaticon.com/svg/vstatic/svg/2463/2463510.svg?token=exp=1611264091~hmac=baf44bdd078ed72bc2ddb1bf1281e020" width="40" draggable="false"> Fresh Graduate Embedded Software Enginner && IoT Software Engineer</li>
 <br/>
