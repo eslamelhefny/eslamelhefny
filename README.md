@@ -30,7 +30,7 @@
 <a href="https://www.hackerrank.com/eslamelhefny1101">
   <img align="left" alt="eslam's hackerrank" width="30px" src="https://assets.brandfolder.com/y9ol94wb/v/331198/view@2x.png?v=1591971279" draggable="false" />
 </a>
-<a href="mailto:abdallah.ahmed.hemdan@gmail.com">
+<a href="mailto:eslamelhefny110@yahoo.com">
   <img align="left" alt="eslam's yahoo" width="30px" src="https://image.flaticon.com/icons/svg/732/732200.svg" draggable="false" />
 </a>
 
@@ -41,6 +41,12 @@
   <img align="left" alt="eslam's whats app " width="30px" src="https://www.flaticon.com/svg/vstatic/svg/1383/1383269.svg?token=exp=1611262027~hmac=7c9b3e8a4f705cab1ba5a88badfdbfda" draggable="false" />
 </a>
 <br/>
+<br/>
+# <img src="https://media.giphy.com/media/3oEjHBO7mXcPBDQV8Y/giphy.gif" width="50" draggable="false" > About me
+
+- <img src="" width="25" draggable="false"> Fresh Graduate Embedded Software Enginner && IoT Software Engineer
+<br/>
+
 <!--
 </div>
 - 🔭 I’m currently working on ...
