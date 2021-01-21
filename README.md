@@ -42,9 +42,9 @@
 </a>
 <br/>
 <br/>
-# <img src="https://media.giphy.com/media/3oEjHBO7mXcPBDQV8Y/giphy.gif" width="50" draggable="false" > About me
+ <img align="left"  src="https://media.giphy.com/media/3oEjHBO7mXcPBDQV8Y/giphy.gif" width="50" draggable="false" > About me
 
-- <img src="" width="25" draggable="false"> Fresh Graduate Embedded Software Enginner && IoT Software Engineer
+- <img align ="left" src="https://www.flaticon.com/svg/vstatic/svg/2463/2463510.svg?token=exp=1611264091~hmac=baf44bdd078ed72bc2ddb1bf1281e020" width="25" draggable="false"> Fresh Graduate Embedded Software Enginner && IoT Software Engineer
 <br/>
 
 <!--
