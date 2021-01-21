@@ -7,7 +7,7 @@
  **“An algorithm must be seen to be believed.” -- Donald Knuth**
  <br/>
 
-<h1>👋 Hi, I am [Eslam El Hefny](https://github.com/eslamelhefny)</h1>
+<h1><img align ="left" width ="40px" src ="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" draggable ="" Hi, I am <a src ="https://github.com/eslamelhefny">Eslam El Hefny</h1>
 <br/>
 <div align="center">
 
@@ -49,9 +49,13 @@
  <img align="left"  src="https://media.giphy.com/media/3oEjHBO7mXcPBDQV8Y/giphy.gif" width="50" draggable="false" > <h1>About me</h1>
  <ul>
 <li><img align ="left" src="https://www.flaticon.com/svg/vstatic/svg/2463/2463510.svg?token=exp=1611264091~hmac=baf44bdd078ed72bc2ddb1bf1281e020" width="40" draggable="false"> Fresh Graduate Embedded Software Enginner && IoT Software Engineer</li>
+<br/>
 <li><img align = "left" width="40 px" src="https://media.giphy.com/media/iDsyZBoaRBdtvY4I8F/giphy.gif"> Graduated from <a src="http://www.asu.edu.eg/"> Ain Shams University </a>  faculty of <a src"http://www.asu.edu.eg/341/news"> computer Science and Information </a></li>
+<br/>
 <li><img align="left" width ="40 px" src = "https://media.giphy.com/media/3oKIPqM8BJ0ofNQOzK/giphy.gif"> I have Passion in Computer programming , Embedded Systems, Internet of Things, and Computer Vision</li>
+<br/>
 <li><img src="https://www.cielhr.com/wp-content/uploads/2019/10/PerformancewSpace-1080x675.png" width="40 px"" draggable="false"> I'm currently focused on improving my ability to reliable embedded projects in AVR and Arm and Firmware to a lot of components </li>
+<br/>
 <li><img src="https://image.flaticon.com/icons/svg/3094/3094869.svg" width="40 px"" draggable="false"> Ask me about anything, I will be happy to help </li>
 </div>
 
