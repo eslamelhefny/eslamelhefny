@@ -1,8 +1,7 @@
 <p allign= "center">
 
 
-  <img src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" alt="Coder GIF" width="500" height="400">
-  
+  <img src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" >
 </p>
   
 
