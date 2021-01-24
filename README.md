@@ -36,9 +36,10 @@
 <a href="https://codeforces.com/profile/eslam_el_hefny">
   <img align="left" alt="eslam's codeforces" width="40px" src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/codeforces.png" draggable="false" />
 </a>
-<a href="https://wa.me/message/NBGRFEUCBMUPC1">
+<!--<a href="https://wa.me/message/NBGRFEUCBMUPC1">
   <img align="left" alt="eslam's whats app " width="30px" src="https://www.flaticon.com/svg/vstatic/svg/1383/1383269.svg?token=exp=1611262027~hmac=7c9b3e8a4f705cab1ba5a88badfdbfda" draggable="false" />
-</a>
+</a> 
+-->
 
 
 
