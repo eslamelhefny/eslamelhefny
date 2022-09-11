@@ -21,35 +21,35 @@
     
 <div align="center">
 
-<a href="https://twitter.com/">
+<a href="https://twitter.com/" target="_blank">
   <img align="left" alt="eslam's twitter" width="30px" src="twitter.png" draggable="false" />
 </a>
-<a href="https://www.linkedin.com/in/eslamelhefny/">
+<a href="https://www.linkedin.com/in/eslamelhefny/" target="_blank">
   <img align="left" alt="eslam's LinkdeIN" width="30px" src="linkedin.png" draggable="false" />
 </a>
-<a href="https://www.facebook.com/eslamahmed.std">
+<a href="https://www.facebook.com/eslamahmed.std" target="_blank">
   <img align="left" alt="eslam's Facebook" width="30px" src="facebook.png" draggable="false" />
 </a>
-<a href="https://www.instagram.com/eslamahmed.std/?hl=en">
+<a href="https://www.instagram.com/eslamahmed.std/?hl=en" target="_blank">
   <img align="left" alt="eslam's Instagram" width="30px" src="instagram.png" draggable="false" />
 </a>
-<a href="https://github.com/eslamelhefny">
+<a href="https://github.com/eslamelhefny" target="_blank">
   <img align="left" alt="eslam's github" width="30px" src="github.png" draggable="false" />
 </a>
-<a href="https://www.hackerrank.com/eslamelhefny1101">
+<a href="https://www.hackerrank.com/eslamelhefny1101" target="_blank">
   <img align="left" alt="eslam's hackerrank" width="30px" src="https://assets.brandfolder.com/y9ol94wb/v/331198/view@2x.png?v=1591971279" draggable="false" />
 </a>
-<a href="mailto:eslamelhefny110@yahoo.com">
+<a href="mailto:eslamelhefny110@yahoo.com" target="_blank">
   <img align="left" alt="eslam's yahoo" width="30px" src="email.png" draggable="false" />
 </a>
 
-<a href="https://codeforces.com/profile/eslam_el_hefny">
+<a href="https://codeforces.com/profile/eslam_el_hefny" target="_blank">
   <img align="left" alt="eslam's codeforces" width="40px" src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/codeforces.png" draggable="false" />
 </a>
-<a href="https://wa.me/message/NBGRFEUCBMUPC1">
+<a href="https://wa.me/message/NBGRFEUCBMUPC1" target="_blank">
   <img align="left" alt="eslam's whats app " width="30px" src="whatsapp.png" draggable="false" />
 </a> 
- <a href="http://www.eslamelhefny.epizy.com">
+ <a href="http://www.eslamelhefny.epizy.com" target="_blank">
   <img align="left" alt="eslam's web site " width="30px" src="website.png" draggable="false" />
 </a>
 </div>
