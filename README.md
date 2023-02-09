@@ -4,8 +4,29 @@
 <!-- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eslamelhefny&label=Profile%20views&color=0e75b6&style=flat" alt="eslamelhefny" /> </p> -->
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eslamelhefny" alt="eslamelhefny" /></a> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eslamelhefny&label=Profile%20views&color=0e75b6&style=flat" alt="eslamelhefny" /> </p>
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eslamelhefny" alt="eslamelhefny" /></a> </p>
+<p align="center">
+  
+
+<a href="" target="blank">
+<img src="https://img.shields.io/github/forks/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator forks"/>
+</a>
+<a href="" target="blank">
+<img src="https://img.shields.io/github/stars/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator stars"/>
+</a>
+<a href="" target="blank">
+<img src="https://img.shields.io/github/issues/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator issues"/>
+</a>
+<a href="" target="blank">
+<img src="https://img.shields.io/github/issues-pr/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
+</a>
+<a href="" target="blank">
+<img src="https://img.shields.io/discord/735303195105951764?label=Join%20Community&logo=discord&style=flat-square" alt="join discord community of github profile readme generator"/>
+</a>
+<a href="" target="blank"> <img src="https://komarev.com/ghpvc/?username=eslamelhefny&label=Profile%20views&color=0e75b6&style=flat" alt="eslamelhefny" /> </a>
+</p>
+
 
 
 <!-- front Image -->
