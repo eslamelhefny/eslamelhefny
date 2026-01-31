@@ -1,13 +1,11 @@
 <h1 align="center"> <img width ="60px" src ="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" draggable ="false">Hi, I'm Eslam El Hefny</h1>
-<h3 align="center">A passionate Embedded developer from Egypt </h3>
-<h3 align="center"> Fresh Graduate Embedded Software Enginner && IoT Software Engineer</h3>
+
+<h3 align="center"> Embedded Linux Software Engineer | MSc Student | Teaching Assistant at Zewail City | ITI & Embedded Systems Instructor</h3>
 <!-- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eslamelhefny&label=Profile%20views&color=0e75b6&style=flat" alt="eslamelhefny" /> </p> -->
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eslamelhefny" alt="eslamelhefny" /></a> </p>
-<p align="center">
-  
+
+  <div align="center">
 
 <a href="" target="blank">
 <img src="https://img.shields.io/github/forks/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator forks"/>
@@ -28,171 +26,106 @@
 </p>
 
 
-
+</div>
 <!-- front Image -->
 <p align="center">
 
   <img src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" alt="Coder GIF" width="400" >
   
 
-<br/><br/>
-  <blockqoute>
-    <em>
- **“An algorithm must be seen to be believed.” -- Donald Knuth**
-    </em>
-    </blockquote>
- <br/>
-<br/><br/>
+## 💭 Quote
 
+> *"An algorithm must be seen to be believed."* — Donald Knuth
+
+---
   
-  <!------------------------------------------------------------------------social media ----------------------------------------------->
+## 🚀 About Me
+
+I'm an **Embedded Linux Software Engineer** and **MSc Student** at Ain Shams University. I combine hands-on embedded systems expertise with cutting-edge AI research, while sharing knowledge as a Teaching Assistant and instructor at ITI and other institutions.
+
+- 🎓 **Education**: MSc Student at Ain Shams University
+- 💼 **Professional**: Embedded Linux Software Engineer | TA & RA at Zewail City | ITI Instructor | Senior Instructor @ **AMIT** 
+- 🔬 **Research**: Two-stream CNN architectures for autonomous driving, federated learning, neural network optimization
+- 🔧 **Expertise**: Embedded Linux, Yocto Project, Modern C++, ARM/AVR, IoT (ESP32, Arduino), Computer Vision
+- 💻 **Core Skills**: Deep learning (PyTorch), embedded firmware, real-time systems, distributed computing
+- 📍 **Location**: Cairo, Egypt
   
-<!--     
-<div align="center">
 
-<a href="https://twitter.com/" target="_blank">
-  <img align="left" alt="eslam's twitter" width="30px" src="twitter.png" draggable="false" />
-</a>
-<a href="https://www.linkedin.com/in/eslamelhefny/" target="_blank">
-  <img align="left" alt="eslam's LinkdeIN" width="30px" src="linkedin.png" draggable="false" />
-</a>
-<a href="https://www.facebook.com/eslamahmed.std" target="_blank">
-  <img align="left" alt="eslam's Facebook" width="30px" src="facebook.png" draggable="false" />
-</a>
-<a href="https://www.instagram.com/eslamahmed.std/?hl=en" target="_blank">
-  <img align="left" alt="eslam's Instagram" width="30px" src="instagram.png" draggable="false" />
-</a>
-<a href="https://github.com/eslamelhefny" target="_blank">
-  <img align="left" alt="eslam's github" width="30px" src="github.png" draggable="false" />
-</a>
-<a href="https://www.hackerrank.com/eslamelhefny1101" target="_blank">
-  <img align="left" alt="eslam's hackerrank" width="30px" src="https://assets.brandfolder.com/y9ol94wb/v/331198/view@2x.png?v=1591971279" draggable="false" />
-</a>
-<a href="mailto:eslamelhefny110@yahoo.com" target="_blank">
-  <img align="left" alt="eslam's yahoo" width="30px" src="email.png" draggable="false" />
-</a>
+## 🛠️ Technical Stack
 
-<a href="https://codeforces.com/profile/eslam_el_hefny" target="_blank">
-  <img align="left" alt="eslam's codeforces" width="40px" src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/codeforces.png" draggable="false" />
-</a>
-<a href="https://wa.me/message/NBGRFEUCBMUPC1" target="_blank">
-  <img align="left" alt="eslam's whats app " width="30px" src="whatsapp.png" draggable="false" />
-</a> 
- <a href="http://www.eslamelhefny.epizy.com" target="_blank">
-  <img align="left" alt="eslam's web site " width="30px" src="website.png" draggable="false" />
-</a>
-</div>
-  
-<br/>
-<br/>
-  
-   -->
-  
-- 🔭 I’m currently working on [Arm firmware](www)
+### Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-- 🌱 I’m currently learning **Arm , Embedded linux**
+### Embedded Systems & IoT
+![Embedded Linux](https://img.shields.io/badge/Embedded_Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Yocto](https://img.shields.io/badge/Yocto-Project-blue?style=for-the-badge)
+![ARM](https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+![AVR](https://img.shields.io/badge/AVR-ED1C24?style=for-the-badge&logo=atmel&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=Espressif&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00979D?style=for-the-badge)
 
-- 👨‍💻 All of my projects are available at [http://www.eslamelhefny.epizy.com/](http://www.eslamelhefny.epizy.com/)
+### AI/ML & Data Science
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-- 📝 I regularly write articles on [http://www.eslamelhefny.epizy.com/](http://www.eslamelhefny.epizy.com/)
+### Web Technologies
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-- 💬 Ask me about **any thing about Embbeded Systems**
+### Tools & Platforms
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
-- 📫 How to reach me **eslamelhefny110@yahoo.com**
+## 🔬 Research & Professional Work
 
-- 📄 Know about my experiences [http://www.eslamelhefny.epizy.com/](http://www.eslamelhefny.epizy.com/)
+### Current Focus
+- **Embedded Linux Development**: Yocto Project-based custom Linux distributions for embedded systems
+- **Autonomous Vehicle Research**: Two-stream CNN architectures combining spatial (RGB) and temporal (optical flow) data for steering prediction
+- **Teaching & Mentorship**: TA at Zewail City | Embedded Systems Instructor | ITI Instructor
+- **Advanced C++ Development**: Modern C++ (C++11/14/17/20) for embedded and real-time applications
+- **Federated Learning Systems**: Synchronous and asynchronous approaches for distributed neural networks
+- **Neural Network Optimization**: Pruning methods and performance optimization for edge deployment
 
-- ⚡ Fun fact **“An algorithm must be seen to be believed.” -- Donald Knuth**
-  
-<!--     
-<div align="left">
- <img align="left"  src="https://media.giphy.com/media/xUOwGiewfQAm3tcIA8/giphy.gif" width="40px" draggable="false" > <h1>About me</h1>
- <ul>
-<li>😄   Fresh Graduate Embedded Software Enginner && IoT Software Engineer</li>
-<br/>
-<li><img align = "left" width="40px" src="https://media.giphy.com/media/iDsyZBoaRBdtvY4I8F/giphy.gif"> Graduated from <a href="http://www.asu.edu.eg/"> Ain Shams University </a>  faculty of <a href="http://www.asu.edu.eg/341/news"> computer Science and Information </a></li>
-<br/>
-<li><img align="left" width ="40px" src = "https://media.giphy.com/media/3oKIPqM8BJ0ofNQOzK/giphy.gif"> I have Passion in<b> Computer programming</b> ,<b> Embedded Systems</b>,<b> Internet of Things</b>, and <b>Computer Vision</b></li>
-<br/>
-<li><img width="40px" draggable="false" src="https://media.giphy.com/media/JpYdtQifMv3SAsnf8j/giphy.gif" > I'm currently focused on improving my ability to reliable embedded projects in AVR and Arm and Firmware to a lot of components </li>
-<br/>
-<li><img src="https://media.giphy.com/media/xUPGcIUJFECMDXIvFC/giphy.gif" width="40px"" draggable="false"> Ask me about anything, I will be happy to help </li>
-</div>
- -->
+### Featured Projects
+- 🏠 **Smart Home Automation**: ESP32-based IoT systems with MQTT, sensor integration, and web interfaces
+- 🏭 **Industrial Control Systems**: Arduino-based temperature control, weight measurement, and valve operations with HMI
+- 🚗 **Deep Learning for Autonomous Driving**: PyTorch implementations of steering angle prediction models
+- 📊 **Distributed Systems**: MPI-based implementations with fault-tolerant architectures
+- 🐧 **Custom Linux Systems**: Yocto-based embedded Linux distributions for ARM platforms
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<!--
-**eslamelhefny/eslamelhefny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Teaching & Education
+- 🎓 **Teaching Assistant** - Zewail City: Supporting graduate-level courses in embedded systems and distributed computing
+- 💻 **ITI Instructor** - Information Technology Institute: Training professionals in embedded systems development
+- 📚 **Embedded Systems Instructor** - Teaching ARM, AVR, modern C++, and real-time operating systems
+- 🔧 **Curriculum Focus** - Embedded Linux, Yocto Project, IoT development, and firmware engineering
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect With Me
 
-<!--    -------------------------------------------------------->
-  
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://twitter.com/eslamelhefny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eslamelhefny" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/eslamelhefny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eslamelhefny" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/eslamelhefny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="eslamelhefny" height="30" width="40" /></a>
-<a href="https://codesandbox.com/eslamelhefny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="eslamelhefny" height="30" width="40" /></a>
-<a href="https://fb.com/eslamelhefny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eslamelhefny" height="30" width="40" /></a>
-<a href="https://instagram.com/eslamelhefny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eslamelhefny" height="30" width="40" /></a>
-<a href="https://www.behance.net/eslamelhefny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="eslamelhefny" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/eslamelhefny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="eslamelhefny" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/eslamelhefny" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="eslamelhefny" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/eslamelhefny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="eslamelhefny" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/eslamelhefny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="eslamelhefny" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/eslamelhefny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="eslamelhefny" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/eslamelhefny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="eslamelhefny" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/eslamelhefny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="eslamelhefny" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/eslamelhefny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="eslamelhefny" height="30" width="40" /></a>
-<a href="https://discord.gg/eslamelhefny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="eslamelhefny" height="30" width="40" /></a>
-<a href="/eslamelhefny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="eslamelhefny" height="30" width="40" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eslamelhefny)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/eslamelhefny)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eslamelhefny110@yahoo.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://www.eslamelhefny.epizy.com/)
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/eslamelhefny)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/eslamelhefny)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/eslamelhefny)
+
+
+
+
+<p align="center">
+  <i>Feel free to reach out if you want to collaborate on embedded systems, IoT projects, or deep learning research!</i>
 </p>
-
-<!--   ---------------------------------------------------------------------------------------- -->
-<h2 align="left">Languages and Tools:</h2>
-<p align="left"> 
- <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
- <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> 
- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ddd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ddd" /></a><a href="https://ko-fi.com/dddd"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="dddd" /></a></p>
-<br><br>
-<hr/>
-<p><img width = "30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=eslamelhefny&show_icons=true&locale=en&layout=compact" alt="eslamelhefny" /></p>
-
-<p>&nbsp;<img  width = "30%"  src="https://github-readme-stats.vercel.app/api?username=eslamelhefny&show_icons=true&locale=en" alt="eslamelhefny" /></p>
-
-<p><img  width = "30%"  src="https://github-readme-streak-stats.herokuapp.com/?user=eslamelhefny&" alt="eslamelhefny" /></p>
