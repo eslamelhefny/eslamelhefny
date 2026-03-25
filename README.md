@@ -1,131 +1,194 @@
-<h1 align="center"> <img width ="60px" src ="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" draggable ="false">Hi, I'm Eslam El Hefny</h1>
+<h1 align="center">Hi, I'm Eslam El Hefny</h1>
 
-<h3 align="center"> Embedded Linux Software Engineer | MSc Student | Teaching Assistant at Zewail City | ITI & Embedded Systems Instructor</h3>
-<!-- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eslamelhefny&label=Profile%20views&color=0e75b6&style=flat" alt="eslamelhefny" /> </p> -->
-
-
-  <div align="center">
-
-<a href="" target="blank">
-<img src="https://img.shields.io/github/forks/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator forks"/>
-</a>
-<a href="" target="blank">
-<img src="https://img.shields.io/github/stars/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator stars"/>
-</a>
-<a href="" target="blank">
-<img src="https://img.shields.io/github/issues/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator issues"/>
-</a>
-<a href="" target="blank">
-<img src="https://img.shields.io/github/issues-pr/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
-</a>
-<a href="" target="blank">
-<img src="https://img.shields.io/discord/735303195105951764?label=Join%20Community&logo=discord&style=flat-square" alt="join discord community of github profile readme generator"/>
-</a>
-<a href="" target="blank"> <img src="https://komarev.com/ghpvc/?username=eslamelhefny&label=Profile%20views&color=0e75b6&style=flat" alt="eslamelhefny" /> </a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=750&lines=Embedded+Linux+Software+Engineer;MSc+Researcher+%40+Zewail+City;Founder+of+EmbeddexAI;Trained+2000%2B+Engineers+in+Embedded+Systems+%26+IoT" alt="Typing SVG" />
 </p>
 
 
-</div>
-<!-- front Image -->
 <p align="center">
+  <a href="https://www.google.com.eg/search?q=eslam+el+hefny+embeddexai">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=--Follow+for+Embedded+Linux+%26+IoT+Content;Check+My+Open-Source+Courses+%26+Labs&font=Bold%20Code&center=true&color=30F050&pause=2000" />
+  </a>
+</p>
 
-  <img src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" alt="Coder GIF" width="400" >
-  
+<p align="center">
+  <a href="https://github.com/eslamelhefny">
+    <img src="https://komarev.com/ghpvc/?username=eslamelhefny&style=flat&color=3010A0" style="height:26px; object-fit:contain;" />
+  </a>
+</p>
 
-## 💭 Quote
-
-> *"An algorithm must be seen to be believed."* — Donald Knuth
+<p align="center">
+  <a href="https://embeddexai.com">
+    <img src="https://img.shields.io/badge/embeddexai.com-00A86B?style=flat-square&logo=hugo&logoColor=white" style="height:32px; object-fit:contain;" />
+  </a> &nbsp;
+  <a href="http://easyfreefileconverter.com/">
+    <img src="https://img.shields.io/badge/freefileconverter-00A86B?style=flat-square&logo=hugo&logoColor=white" style="height:32px; object-fit:contain;" />
+  </a> &nbsp;
+  <a href="https://www.linkedin.com/in/eslamelhefny">
+    <img src="https://img.shields.io/badge/My LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" style="height:32px; object-fit:contain;" />
+  </a> &nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/My CV-004520?style=flat-square&logo=googledrive&logoColor=white" style="height:32px; object-fit:contain;" />
+  </a>
+</p>
 
 ---
-  
-## 🚀 About Me
 
-I'm an **Embedded Linux Software Engineer** and **MSc Student** at Ain Shams University. I combine hands-on embedded systems expertise with cutting-edge AI research, while sharing knowledge as a Teaching Assistant and instructor at ITI and other institutions.
+### `🧑‍💻 About Me`
 
-- 🎓 **Education**: MSc Student at Ain Shams University
-- 💼 **Professional**: Embedded Linux Software Engineer | TA & RA at Zewail City | ITI Instructor | Senior Instructor @ **AMIT** 
-- 🔬 **Research**: Two-stream CNN architectures for autonomous driving, federated learning, neural network optimization
-- 🔧 **Expertise**: Embedded Linux, Yocto Project, Modern C++, ARM/AVR, IoT (ESP32, Arduino), Computer Vision
-- 💻 **Core Skills**: Deep learning (PyTorch), embedded firmware, real-time systems, distributed computing
-- 📍 **Location**: Cairo, Egypt
-  
+```
+Name: Eslam El Hefny
+Role: Embedded Linux Software Engineer
+Education: MSc in Computer Science @ Ain Shams Universty
+brand: Founder of EmbeddexAI — Trained 2000+ engineers across ITI, AAST, IMT, Amit Learning & Zewail City
+research: Autonomous Vehicle Steering Prediction · Two-Stream CNNs · Federated Learning
+motto: "Build it. Break it. Teach it."
+```
 
-## 🛠️ Technical Stack
+---
 
-### Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+#### `📤 Connect & Profiles`
 
-### Embedded Systems & IoT
-![Embedded Linux](https://img.shields.io/badge/Embedded_Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Yocto](https://img.shields.io/badge/Yocto-Project-blue?style=for-the-badge)
-![ARM](https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white)
-![AVR](https://img.shields.io/badge/AVR-ED1C24?style=for-the-badge&logo=atmel&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=Espressif&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00979D?style=for-the-badge)
+<div align="center">
+  <a href="https://www.linkedin.com/in/eslamelhefny" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="https://embeddexai.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Blog&logo=hugo&label=&color=00A86B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="blog logo" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
+  <a href="https://www.youtube.com/@EmbeddexAI" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="x logo" />
+  </a>
+</div>
 
-### AI/ML & Data Science
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+---
 
-### Web Technologies
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+#### `🛠️ Tech Stack & Skills`
 
-### Tools & Platforms
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+##### Embedded & Systems Programming
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="55" alt="C" title="C" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="55" alt="C++" title="C++ / Modern C++" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="Python" title="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="55" alt="Linux" title="Embedded Linux / Yocto / Buildroot" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="55" alt="Arduino" title="Arduino / AVR / ARM" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="55" alt="Raspberry Pi" title="Raspberry Pi" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="55" alt="Qt" title="Qt / QML" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/FreeRTOS-00979D?style=for-the-badge&logo=freertos&logoColor=white" height="30" alt="FreeRTOS" title="FreeRTOS" />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/Yocto-2B579A?style=for-the-badge&logoColor=white" height="30" alt="Yocto" title="Yocto Project" />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/Buildroot-CC0000?style=for-the-badge&logoColor=white" height="30" alt="Buildroot" title="Buildroot" />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" height="30" alt="ESP32" title="ESP32" />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/LoRa-1C1C1C?style=for-the-badge&logoColor=white" height="30" alt="LoRa" title="LoRa / LoRaWAN" />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" height="30" alt="MQTT" title="MQTT" />
+</div>
 
-## 🔬 Research & Professional Work
+<br>
 
-### Current Focus
-- **Embedded Linux Development**: Yocto Project-based custom Linux distributions for embedded systems
-- **Autonomous Vehicle Research**: Two-stream CNN architectures combining spatial (RGB) and temporal (optical flow) data for steering prediction
-- **Teaching & Mentorship**: TA at Zewail City | Embedded Systems Instructor | ITI Instructor
-- **Advanced C++ Development**: Modern C++ (C++11/14/17/20) for embedded and real-time applications
-- **Federated Learning Systems**: Synchronous and asynchronous approaches for distributed neural networks
-- **Neural Network Optimization**: Pruning methods and performance optimization for edge deployment
+##### AI / ML & Research
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="55" alt="PyTorch" title="PyTorch" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="55" alt="TensorFlow" title="TensorFlow / TinyML" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="55" alt="OpenCV" title="OpenCV" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="55" alt="Jupyter" title="Jupyter Notebooks" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="55" alt="NumPy" title="NumPy" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="55" alt="Kaggle" title="Kaggle" />
+</div>
 
-### Featured Projects
-- 🏠 **Smart Home Automation**: ESP32-based IoT systems with MQTT, sensor integration, and web interfaces
-- 🏭 **Industrial Control Systems**: Arduino-based temperature control, weight measurement, and valve operations with HMI
-- 🚗 **Deep Learning for Autonomous Driving**: PyTorch implementations of steering angle prediction models
-- 📊 **Distributed Systems**: MPI-based implementations with fault-tolerant architectures
-- 🐧 **Custom Linux Systems**: Yocto-based embedded Linux distributions for ARM platforms
+<br>
 
-### Teaching & Education
-- 🎓 **Teaching Assistant** - Zewail City: Supporting graduate-level courses in embedded systems and distributed computing
-- 💻 **ITI Instructor** - Information Technology Institute: Training professionals in embedded systems development
-- 📚 **Embedded Systems Instructor** - Teaching ARM, AVR, modern C++, and real-time operating systems
-- 🔧 **Curriculum Focus** - Embedded Linux, Yocto Project, IoT development, and firmware engineering
+##### DevOps, Tools & Web
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55" alt="Git" title="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="55" alt="GitHub" title="GitHub" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="55" alt="Docker" title="Docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="55" alt="Bash" title="Bash / Shell Scripting" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="55" alt="VS Code" title="VS Code" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="55" alt="Node.js" title="Node.js / Express" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" alt="JavaScript" title="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" alt="HTML5" title="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55" alt="CSS3" title="CSS3" />
+</div>
+
+---
+
+#### `🔬 Research & Highlights`
+
+| Area | Details |
+|------|---------|
+| 🚗 **Autonomous Driving** | Two-Stream CNN for steering angle prediction · FedAvg & Async FL · Optical Flow · SullyChen dataset |
+| 📄 **Publications** | IEEE conference paper on Smart IoT Battery Charger |
+| 🔋 **Smart Energy** | Participated in MILP-based Time-of-Use tariff optimization · IoT-enabled battery charger · Egyptian Patent EG/P/2022/1910 |
+
+---
+
+#### `📚 Open-Source Educational Content`
+
+- 🐧 **Embedded Linux Roadmap & Resources** — 10-phase roadmap, books, playlists, Bootlin training, hands-on projects
+- ⚙️ **AVR/ARM Microcontroller Drivers** — Layered architecture (MCAL/HAL) for ATmega32
+- 📡 **LoRa Communication Projects** — Arduino MKR WAN 1310, SX1276/SX1262 for Egypt (433 MHz)
+- 🖥️ **Qt/C++ Training** — QObject, Signals/Slots, QML, Multithreading, Design Patterns
+- 🧮 **C++ Deep Dives** — Operator overloading, Templates, STL, Memory layout, Name mangling
+
+---
+
+#### 🏆 GitHub Trophies
+
+<div align="center">
 
 
-## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eslamelhefny)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/eslamelhefny)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eslamelhefny110@yahoo.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://www.eslamelhefny.epizy.com/)
+  <img src="https://github-readme-stats.vercel.app/api?username=eslamelhefny&show_icons=true&theme=highcontrast&hide_border=true" height="150" /> &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eslamelhefny&layout=compact&langs_count=8&theme=highcontrast&hide_border=true" height="150" />
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/eslamelhefny)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/eslamelhefny)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/eslamelhefny)
+  <br><br>
 
+  <img src="https://streak-stats.demolab.com/?user=eslamelhefny&theme=highcontrast&hide_border=true" height="150" />
 
+  <br><br>
 
+</div>
+
+---
 
 <p align="center">
-  <i>Feel free to reach out if you want to collaborate on embedded systems, IoT projects, or deep learning research!</i>
+  <b>🔧 Building Embedded Systems by day · Teaching the next generation of engineers by night</b>
+  <br><br>
+  <a href="https://embeddexai.com">embeddexai.com</a> · 
+  <a href="https://www.linkedin.com/in/eslamelhefny">LinkedIn</a> · 
+  <a href="https://github.com/eslamelhefny">GitHub</a> . 
+  <a href="http://easyfreefileconverter.com/">freefileconverter</a>
 </p>
