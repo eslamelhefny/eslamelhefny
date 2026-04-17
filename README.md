@@ -21,6 +21,9 @@
   <a href="https://embeddexai.com">
     <img src="https://img.shields.io/badge/embeddexai.com-00A86B?style=flat-square&logo=hugo&logoColor=white" style="height:32px; object-fit:contain;" />
   </a> &nbsp;
+  <a href="https://github.com/eslamelhefny/Embedded-Linux-Road-Map-">
+    <img src="https://img.shields.io/badge/GitHub-Embedded--Linux--Road--Map-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a> &nbsp;
   <a href="http://easyfreefileconverter.com/">
     <img src="https://img.shields.io/badge/freefileconverter-00A86B?style=flat-square&logo=hugo&logoColor=white" style="height:32px; object-fit:contain;" />
   </a> &nbsp;
@@ -30,6 +33,9 @@
   <a href="#">
     <img src="https://img.shields.io/badge/My CV-004520?style=flat-square&logo=googledrive&logoColor=white" style="height:32px; object-fit:contain;" />
   </a>
+  <img src="https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/eslamelhefny/Embedded-Linux-Road-Map-?style=for-the-badge&color=yellow" />
+  <img src="https://img.shields.io/github/last-commit/eslamelhefny/Embedded-Linux-Road-Map-?style=for-the-badge" />
 </p>
 
 ---
